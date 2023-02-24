@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, my name is Anand!</h1>
-<h3 align="center">I'm a software engineer with 4 years of experience. I've worked at large billion dollar public companies to early stage startups. I have built 2 mobile apps from the ground up at 2 startup companies. Avid reader, curious about the world, and always learning!</h3>
+<h3 align="center">I'm a software engineer with 4 years of experience. I've worked at large billion dollar public companies to early stage startups. I have helped build 2 mobile apps from the ground up at 2 startup companies. Avid reader, curious about the world, and always learning!</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19628705/218920620-c9901c2e-b87d-4b3b-9121-bf0200f72dee.jpeg" width="500" height="320" />
 
